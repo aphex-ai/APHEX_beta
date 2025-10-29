@@ -11,7 +11,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/a2Xdh3nr)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Aphex_AI)
 
-[🚀 Getting Started](#-getting-started) • [📚 Documentation](https://docs.jesse.trade) • [🎥 Tutorials](https://www.youtube.com/watch?v=SfyEf9Pcm2I&list=PLDicdtJyO2rLuVRzM85dYYXv5KB2F2kEP) • [💬 Community](https://discord.gg/a2Xdh3nr)
+[🚀 Getting Started](#-getting-started) • [📚 Documentation](https://aphex.run/docs.html) • [🎥 Tutorials](https://www.youtube.com/watch?v=SfyEf9Pcm2I&list=PLDicdtJyO2rLuVRzM85dYYXv5KB2F2kEP) • [💬 Community](https://discord.gg/a2Xdh3nr)
 
 ---
 
