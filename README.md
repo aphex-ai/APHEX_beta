@@ -109,9 +109,6 @@ With APHEX AI, you can design sophisticated strategies using **clean, readable P
 ### 💡 Example Strategy
 
 ```python
-from jesse.strategies import Strategy
-import jesse.indicators as ta
-from jesse import utils
 
 class GoldenCross(Strategy):
     def should_long(self):
@@ -138,8 +135,6 @@ class GoldenCross(Strategy):
 Run **highly accurate** and **lightning-fast** backtests free from look-ahead bias. Use detailed logs, interactive charts, and comprehensive metrics to validate and refine your strategies with confidence.
 
 <div align="center">
-
-![Backtesting Demo](https://i.imgur.com/RmJB2Pt.mp4)
 
 *⚡️ Backtest years of data in seconds*
 
