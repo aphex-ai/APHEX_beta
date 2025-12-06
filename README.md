@@ -8,10 +8,9 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/a2Xdh3nr)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Aphex_AI)
 
-[🚀 Getting Started](#-getting-started) • [📚 Documentation](https://aphex.run/docs.html) • [🎥 Tutorials](https://www.youtube.com/watch?v=SfyEf9Pcm2I&list=PLDicdtJyO2rLuVRzM85dYYXv5KB2F2kEP) • [💬 Community](https://discord.gg/a2Xdh3nr)
+[🚀 Getting Started](#-getting-started) • [📚 Documentation](https://aphex.run/docs.html) • [🎥 Tutorials](https://youtu.be/UpZ7hI2p7Eg?si=xXJuFFfAI9TlyDn_) •
 
 ---
 
