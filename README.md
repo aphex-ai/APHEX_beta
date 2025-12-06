@@ -8,7 +8,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Aphex_AI)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)]([https://x.com/Aphex_AI](https://x.com/APHEX_RUN))
 
 [🚀 Getting Started](#-getting-started) • [📚 Documentation](https://aphex.run/docs.html) • [🎥 Tutorials](https://youtu.be/UpZ7hI2p7Eg?si=xXJuFFfAI9TlyDn_) •
 
@@ -24,7 +24,7 @@
 
 Get a clear picture of how APHEX AI works and what it can do for you:
 
-[![APHEX AI Overview](https://img.youtube.com/vi/SfyEf9Pcm2I/maxresdefault.jpg)](https://www.youtube.com/watch?v=SfyEf9Pcm2I)
+[![APHEX AI Overview](https://img.youtube.com/vi/SfyEf9Pcm2I/maxresdefault.jpg)]([https://www.youtube.com/watch?v=SfyEf9Pcm2I](https://youtu.be/UpZ7hI2p7Eg?si=xXJuFFfAI9TlyDn_)))
 
 > 👆 *Click to watch the introduction video*
 
